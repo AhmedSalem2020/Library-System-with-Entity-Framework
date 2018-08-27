@@ -13,7 +13,7 @@ namespace EFProject.User
 {
 
     /// <summary>
-    /// 
+    /// GitGub Test2
     /// This page will take you to the login form to put 
     /// 
     /// your username and password to enter to the website 
